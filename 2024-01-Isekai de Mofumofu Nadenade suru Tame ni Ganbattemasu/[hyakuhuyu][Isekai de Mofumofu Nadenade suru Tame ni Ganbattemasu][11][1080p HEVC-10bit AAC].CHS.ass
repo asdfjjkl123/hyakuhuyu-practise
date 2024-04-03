@@ -16,9 +16,9 @@ Video File: [hyakuhuyu][Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu][1
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 427
-Active Line: 432
-Video Position: 29743
+Scroll Position: 358
+Active Line: 360
+Video Position: 23280
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -394,7 +394,7 @@ Dialogue: 0,0:16:00.46,0:16:04.51,Default,,0,0,0,,无属性或者相克的火属
 Dialogue: 0,0:16:04.51,0:16:05.57,Default,,0,0,0,,这样的话
 Dialogue: 0,0:16:05.94,0:16:07.53,Default,,0,0,0,,索尔 借力量给我
 Dialogue: 0,0:16:09.54,0:16:10.40,Default,,0,0,0,,不行
-Dialogue: 0,0:16:10.97,0:16:14.57,Default,,0,0,0,,如果吾从所在地发动攻击 会伤及汝等的
+Dialogue: 0,0:16:10.97,0:16:14.57,Default,,0,0,0,,如果从吾这里发动攻击 会伤及汝等的
 Dialogue: 0,0:16:14.57,0:16:15.75,Default,,0,0,0,,怎么会
 Dialogue: 0,0:16:15.75,0:16:17.43,Default,,0,0,0,,前卫要来了
 Dialogue: 0,0:16:17.43,0:16:18.21,Default,,0,0,0,,去迎击
